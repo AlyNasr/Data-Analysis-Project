@@ -1,4 +1,4 @@
-# Investigate the "No-show-appointments" dataset using Python libraries as pandas, numpy, matplotlib and seaborn.     
+# Investigation and exploratory analysis on "No-show-appointments" dataset using Python libraries as pandas, numpy, matplotlib and seaborn.     
 No-show-appointments is a dataset containing information about more than 110k medical appointments in Brazil.  
 The dataset is inside the folder named "Database_No_show_appointments".  
 The dataset main issue is to determine whether or not a patient will show up for a medical appointment.  
